@@ -19,4 +19,6 @@ Metrics such as precision, recall, F1-score, and ROC-AUC are calculated for each
 Confusion matrices and ROC curves are plotted to evaluate the performance of each model.
 
 ##Conclusion
+
+
 Based on the results, the script infers TF-IDF vectorization is more suitable for models like Naive Bayes, Random-Forest, and SVM, where the importance of words in the context of the entire corpus plays a crucial role in classification.
